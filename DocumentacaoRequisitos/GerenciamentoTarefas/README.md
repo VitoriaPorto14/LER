@@ -53,13 +53,14 @@
         - Onde será acessado?
         - Quem irá acessar?
         - Quando e quais situações irá utilizar esse recurso?
-        - Como iremos atender as necessidades?
+      - Como iremos atender as necessidades?
         - Quais são os passos?
         - O que irá acontecer quando o usuário clicar aqui
         - O que esse recurso irá fazer?
         - Por que o usuário iria acessar?
         - Qual é o objetivo?
         - Como ele irá afetar nosso usuário?
+
     - Ferramentas para o questionário:
         - Git e GitHub (Versionamento)
 
